@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapasYuber</string>
+    <string name="google_api_key" templateMergeStrategy="preserve" translatable="false"> AIzaSyBEolRzoVUQ-w3_meukQgX6-3eGg38CBHI </string>
+</resources>
